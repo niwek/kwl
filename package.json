@@ -2,7 +2,7 @@
   "name": "kwl",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://niwek.github.io/kwl",
+  "homepage": "http://niwek.github.io/kwl",
   "dependencies": {
     "create-react-app": "^1.5.2",
     "react": "^16.4.2",
