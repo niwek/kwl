@@ -1,3 +1,0 @@
-# kwl
-
-Personal Website
