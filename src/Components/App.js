@@ -20,10 +20,10 @@ class App extends Component {
           >
             Learn React
           </a>
+          <div>
+            <TimerComponent />
+          </div>
         </header>
-        <body>
-          <TimerComponent />
-        </body>
       </div>
 
     );
